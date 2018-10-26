@@ -1,0 +1,21 @@
+.P1{
+font-size: 200%;    
+color: hsl(229, 100%, 50%);
+font-family: Luminari, fantasy;
+font-weight: 50;
+}
+
+.P2{
+font-size: 200%;
+color: hsl(0, 100%, 50%);
+font-family: Marker Felt, fantasy;
+}
+    
+
+.P1 span {
+}
+    
+.P2 span {
+}
+
+h3:hover {background-color: rgb(23, 122, 65)}

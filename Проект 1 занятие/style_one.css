@@ -1,0 +1,46 @@
+.text {
+text-align: center;
+}
+
+.text h1{
+color: hsl(0, 100%, 50%);
+}
+
+.letter { 
+color:blue; 
+font-size: 130%; /* Размер шрифта в процентах */ 
+font-family: serif; /* Шрифт с засечками */ 
+position: relative; /* Относительное позиционирование */ 
+}
+      
+.letter1 { 
+color: black; 
+font-size: 100%; /* Размер шрифта в процентах */ 
+font-family: serif; /* Шрифт с засечками */ 
+position: relative; /* Относительное позиционирование */ 
+}
+
+.letter2 { 
+color: DarkGreen; 
+font-size: 100%; /* Размер шрифта в процентах */ 
+font-family: serif; /* Шрифт с засечками */ 
+position: relative; /* Относительное позиционирование */ 
+}
+
+.ul {
+font-size: 150%;
+font-weight: bold;
+text-decoration: blink;
+}
+
+.li {
+padding-left: 15px; /* Отступ от маркера до текста */
+}
+
+.li1 {
+padding-left: 30px; /* Отступ от маркера до текста */
+}
+
+.li2 {
+padding-left: 1.5px; /* Отступ от маркера до текста */
+}
