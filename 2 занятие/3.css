@@ -1,0 +1,100 @@
+
+/*Таблица header*/
+#T1{
+margin-left:10px;     
+}
+#T1 tr td{
+background:rgb(0, 0, 0);
+padding:150px 450px;
+margin-top:40px; 
+}
+
+#T2 tr td{
+background:orange;
+padding:150px 450px;
+margin-top:40px;
+}
+#T2{
+margin-left:1000px;
+margin-top:-305px;     
+}
+/*Таблица header*/
+
+/*основа*/
+#T3{
+margin-top:50px; 
+margin-top:30px;    
+}
+
+#T3 tr td{
+background:yellow;
+padding:400px 950px  
+}/*основа*/
+
+/*footer*/
+#T4{
+margin-top:30px;    
+}
+
+#T4 tr td{
+background:blue;
+padding:180px 240px;     
+}
+
+#T5{
+margin-left:700px;
+margin-top:-365px;     
+}
+#T5 tr td{
+background:blue;
+padding:180px 250px;     
+}
+#T6{
+margin-left:1400px;
+margin-top:-365px;
+}
+
+#T6 tr td{
+background:blue;
+padding:180px 250px;     
+}
+
+#T7{
+ margin-top:100px;    
+}
+
+#T7 tr td{
+background:gray;
+padding:150px 200px;     
+}
+
+#T8{
+ margin-top:-305px;
+margin-left:500px; 
+}
+#T8 tr td{
+background:gray;
+padding:150px 200px; 
+}
+
+#T9{
+margin-left:1000px;
+margin-top:-305px; 
+}
+
+#T9 tr td{
+background:gray;
+padding:150px 200px;   
+}
+
+#T10{
+ margin-left:1480px;
+margin-top:-305px;
+}
+
+#T10 tr td{
+background:gray;
+padding:150px 200px;   
+}
+
+
