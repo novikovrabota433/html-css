@@ -1,0 +1,458 @@
+#h{
+display:flex;
+flex-direction: row;
+}
+
+#hl{
+position: relative;
+width: 20%;
+background-image: url(roga.jpg);
+background-size: 70%;
+}
+
+#hl::before{
+    content: "";
+    display: block;
+    padding-top:10%;
+}
+
+#hlpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#hr{
+position: relative;
+background-color: orange;
+width: 80%;
+margin-left: 1%;
+}
+
+#hr::before{
+    content: "";
+    display: block;
+    padding-top:10%;
+}
+
+#hrpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#m{
+display:flex;
+flex-direction: row;
+}
+
+#mb{
+position: relative;
+background-color: rgb(0, 255, 42);
+width: 100%;
+margin-top: 1%;
+background-image: url(ezdok.jpg);
+background-size: 70%;
+}
+
+#mb::before{
+    content: "";
+    display: block;
+    padding-top:31%;
+}
+
+#bmpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#f{
+display:flex;
+flex-direction: row;
+}
+    
+#fl{
+position: relative;
+background-color: brown;
+width: 33%;
+margin-top: 1%;
+}
+
+#fl::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#flpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+    
+#fc{
+position: relative;
+background-color: blue;
+width: 33%;
+margin-left: 1%;
+margin-top: 1%;
+}
+
+#fc::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#fcpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#fr{
+position: relative;
+background-color: blueviolet;
+width: 33%;
+margin-left: 1%;
+margin-top: 1%;
+background-image: url(volk.jpg);
+background-size: 70%;
+}
+
+#fr::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#frpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+@media screen and (max-width: 1200px) {
+
+#h{
+display:flex;
+flex-direction: row;
+}
+
+#hl{
+position: relative;
+width: 20%;
+background-color: orange;
+background-image: url();
+background-size: 70%;
+}
+
+#hl::before{
+    content: "";
+    display: block;
+    padding-top:10%;
+}
+
+#hlpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#hr{
+position: relative;
+background-image: url(volk.jpg);
+background-size: 70%;
+width: 80%;
+margin-left: 1%;
+}
+
+#hr::before{
+    content: "";
+    display: block;
+    padding-top:10%;
+}
+
+#hrpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#m{
+display:flex;
+flex-direction: row;
+}
+
+#mb{
+position: relative;
+background-color: rgb(0, 255, 42);
+width: 100%;
+margin-top: 1%;
+background-image: url(roga.jpg);
+background-size: 70%;
+}
+
+#mb::before{
+    content: "";
+    display: block;
+    padding-top:31%;
+}
+
+#bmpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#f{
+display:flex;
+flex-direction: row;
+}
+    
+#fl{
+position: relative;
+background-color: brown;
+width: 49.5%;
+margin-top: 1%;
+background-image: url(ezdok.jpg);
+background-size: 70%;
+}
+
+#fl::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#flpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#fc{
+position: relative;
+background-color: blue;
+width: 49.5%;
+margin-left: 1%;
+margin-top: 1%;
+}
+    
+#fc::before{
+        content: "";
+        display: block;
+        padding-top:25%;
+}
+    
+#fcpsevdo{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0:
+}
+
+#fr{
+position: relative;
+background-color: blueviolet;
+width: 0%;
+margin-left: 0%;
+margin-top: 0%;
+background-image: url(roga.jpg);
+background-size: 0%;
+}
+
+#fr::before{
+    content: "";
+    display: block;
+    padding-top:0%;
+}
+
+#frpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+}
+
+@media screen and (max-width: 350px) {
+
+#h{
+display:flex;
+flex-direction: row;
+}
+
+#hl{
+position: relative;
+width: 100%;
+background-image: url(ezdok.jpg);
+background-size: 70%;
+}
+
+#hl::before{
+    content: "";
+    display: block;
+    padding-top:50%;
+}
+
+#hlpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#hr{
+position: relative;
+position: relative;
+background-color: blueviolet;
+width: 0%;
+margin-left: 0%;
+margin-top: 0%;
+background-image: url(volk.jpg);
+background-size: 0%;
+}
+
+#hr::before{
+    content: "";
+    display: block;
+    padding-top:10%;
+}
+
+#hrpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#m{
+display:flex;
+flex-direction: row;
+}
+
+#mb{
+position: relative;
+background-color: rgb(0, 255, 42);
+width: 100%;
+margin-top: 1%;
+background-image: url(volk.jpg);
+background-size: 120%;
+}
+
+#mb::before{
+    content: "";
+    display: block;
+    padding-top:100%;
+}
+
+#bmpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#f{
+display:flex;
+flex-direction: row;
+}
+    
+#fl{
+position: relative;
+background-color: brown;
+width: 100%;
+margin-top: 1%;
+background-image: url(roga.jpg);
+background-size: 130%;
+}
+
+#fl::before{
+    content: "";
+    display: block;
+    padding-top:1000%;
+}
+
+#flpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+    
+#fc{
+position: relative;
+width: 0%;
+margin-left: 0%;
+margin-top: 0%;
+background-image: url(roga.jpg);
+background-size: 0%;
+}
+
+#fc::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#fcpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+#fr{
+position: relative;
+background-color: blueviolet;
+width: 0%;
+margin-left: 0%;
+margin-top: 0%;
+background-image: url(roga.jpg);
+background-size: 0%;
+}
+
+#fr::before{
+    content: "";
+    display: block;
+    padding-top:25%;
+}
+
+#frpsevdo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0:
+}
+
+}
