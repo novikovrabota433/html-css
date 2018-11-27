@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#image {
+    position: absolute;
+}
+
+#image:hover {
+    animation-play-state: start;
+    position: absolute;
+    animation: animation 5s ease infinite alternate;
+    border: 0px black solid;
+  }
+
+@keyframes animation{
+    from {margin-left: 0px; margin-top: 0px;}
+    to {transform: scale(1.5); margin-left: 15%; margin-top: 15%; border: 40px rgb(231, 235, 31) dotted;}
+}
